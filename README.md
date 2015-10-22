@@ -81,6 +81,10 @@ $ bower install slugfield
 
 ### npm
 
+```bash
+$ npm install slugfield
+```
+
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].

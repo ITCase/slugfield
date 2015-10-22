@@ -1,0 +1,27 @@
+{
+  "name": "slugfield",
+  "version": "0.0.1",
+  "description": " Generate a slug for connected inputs.",
+  "main": "build/web/slugfield.dart.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ITCase/slugfield.git"
+  },
+  "keywords": [
+    "slug",
+    "slugify",
+    "dart",
+    "transliteration",
+    "field"
+  ],
+  "author": "Svintsov Dmitry <sacrud@uralbash.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ITCase/slugfield/issues"
+  },
+  "homepage": "https://github.com/ITCase/slugfield"
+}
