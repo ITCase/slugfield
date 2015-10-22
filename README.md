@@ -32,19 +32,17 @@ See example in [build/web](https://github.com/ITCase/slugfield/tree/master/build
 
 ```html
 
-<!DOCTYPE html>
-<html>
-<head>
+<!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Dart slugfield example</title>
 
-<script async type="application/dart" src="slugfield.dart"></script>
-<script async type="text/javascript" src="packages/browser/dart.js"></script>
+<script async="" src="slugfield.dart.js"></script>
+
 
 <style>
-.inline {
-  display: inline-block;
+.inline { 
+  display: inline-block; 
   margin:10px;
 }
 </style>
@@ -55,22 +53,20 @@ See example in [build/web](https://github.com/ITCase/slugfield/tree/master/build
   typing there -&gt; <input type="text" id="name">
 </div>
 <div class="inline">
-  slug1: <input type="text" id="slug">
-  <br/>
-  slug2: <input type="text" id="slug2">
-  <br/>
-  slug3: <input type="text" id="slug3">
-  <br/>
+  slug1: <input type="text" id="slug"> <br>
+  slug2: <input type="text" id="slug2"><br>
+  slug3: <input type="text" id="slug3"><br>
   slug4: <input type="text" id="slug4">
 </div>
 
-<script async type="text/javascript">
+<script async="" type="text/javascript">
   window.onload = function() {
     dartSlugField("#name", ["#slug", "#slug2", "#slug3", "#slug4"]);
   }
 </script>
-</body>
-</html>
+
+
+</body></html>
 ```
 
 ### Bower

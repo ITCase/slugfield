@@ -1,6 +1,6 @@
 name: slugfield
 description: Generate a slug for connected inputs.
-version: 0.0.1
+version: 0.0.2
 author: Svintsov Dmitry <sacrud@uralbash.ru>
 homepage: https://github.com/ITCase/slugfield/
 
