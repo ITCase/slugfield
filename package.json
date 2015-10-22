@@ -1,6 +1,6 @@
 {
   "name": "slugfield",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": " Generate a slug for connected inputs.",
   "main": "build/web/slugfield.dart.js",
   "directories": {
