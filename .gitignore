@@ -1,0 +1,12 @@
+.buildlog
+.DS_Store
+.idea
+.packages
+.pub/
+# !build/
+build/*
+!build/web/
+!build/web/index.html
+!build/web/slugfield.dart.js
+packages
+pubspec.lock
