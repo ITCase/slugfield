@@ -2,9 +2,11 @@
 
 Generate a slug for connected inputs.
 
-![Slug field](https://raw.githubusercontent.com/ITCase/slugfield/master/docs/_static/example.gif)
+![Slug field](https://raw.githubusercontent.com/ITCase/slugfield/master/doc/_static/example.gif)
 
 ## Usage
+
+### Dart
 
 A simple usage example in Dart language:
 
@@ -22,6 +24,8 @@ main() {
     ..adaptTo('#slug5');
 }
 ```
+
+### JavaScript
 
 It can be used as a normal javascript library.
 See example in [build/web](https://github.com/ITCase/slugfield/tree/master/build/web) directory of project:
@@ -68,6 +72,14 @@ See example in [build/web](https://github.com/ITCase/slugfield/tree/master/build
 </body>
 </html>
 ```
+
+### Bower
+
+```bash
+$ bower install slugfield
+```
+
+### npm
 
 ## Features and bugs
 
